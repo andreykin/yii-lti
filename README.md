@@ -8,7 +8,7 @@ It uses LTI_Tool_Provider.php library
 http://projects.oscelot.org/gf/project/php-basic-lti/frs/
 
 ## Installation
-1. Download and upload files to /protected/extensions/yii-lti/;
+1. Download and upload main extension file  https://raw.githubusercontent.com/andreykin/yii-lti/master/extensions/yii-lti/YiiLTI.php  to /protected/extensions/yii-lti/;
 1. Extract LTI_Tool_Provider files from http://projects.oscelot.org/gf/projects/php-basic-lti/
   to /protected/vendors/lti_tool_provider/;
 1. Upload your custom LTI Tool Provider class to /protected/components/ (if needed)
