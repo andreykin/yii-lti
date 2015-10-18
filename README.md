@@ -21,4 +21,10 @@ http://projects.oscelot.org/gf/projects/php-basic-lti/
 * Few tables will be created in your database, and new record will be added in customer table. (db init will be provided later, now you must use some .sql script from original library to create database structure. there may be some error with foreign key, so you feel free just drop it).
 * You can use dummy tool http://ltiapps.net/test/tc.php. There is some bug if dots is in customer key, so use "moodlekey" as key and "secret" as secret for connect. Fill the fields, click "save data" and then "Launch TP in new window" buttons.
 * New window opens, with your app. New user will be created and authorized.
-* Use Moodle external application course element, added to some moodle course, to authorize to your yii application from moodle installation.
+* Use Moodle external application course element, added to some moodle course, to authorize in your yii application from moodle installation.
+
+## Useful Links
+* http://www.spvsoftwareproducts.com/php/lti_tool_provider/
+* http://projects.oscelot.org/gf/projects/php-basic-lti/
+* http://ltiapps.net/workshop/lti-workshop.html
+* http://ltiapps.net/test/tc.php
