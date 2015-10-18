@@ -5,7 +5,7 @@ Yii LTI extension.
 This class helps Yii to processing LTI requests.
 
 It uses LTI_Tool_Provider.php library
-http://projects.oscelot.org/gf/projects/php-basic-lti/
+http://projects.oscelot.org/gf/project/php-basic-lti/frs/
 
 ## Installation
 1. Download and upload files to /protected/extensions/yii-lti/;
@@ -25,6 +25,6 @@ http://projects.oscelot.org/gf/projects/php-basic-lti/
 
 ## Useful Links
 * http://www.spvsoftwareproducts.com/php/lti_tool_provider/
-* http://projects.oscelot.org/gf/projects/php-basic-lti/
+* http://projects.oscelot.org/gf/project/php-basic-lti/frs/
 * http://ltiapps.net/workshop/lti-workshop.html
 * http://ltiapps.net/test/tc.php
