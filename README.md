@@ -15,7 +15,7 @@ http://projects.oscelot.org/gf/project/php-basic-lti/frs/
 1. Include extension in config/main.php
 
 ## Usage
-* Based on official demo Rating APP, I create some demo controller and components to show you, how in works.
+* Based on official demo Rating APP, I create some demo controller and components to show you, how it works.
 * You also need some customization in your "user" table: add new varchar(255) fields "lti_user_id" and "auth_service_name";
 * First navigate to http://localhost/app/lti/createCustomer url (I assume you have human URL's enabled and some PDO database connection configured in your yii app config file).
 * Few tables will be created in your database, and new record will be added in customer table. (db init will be provided later, now you must use some .sql script from original library to create database structure. there may be some error with foreign key, so you feel free just drop it).
