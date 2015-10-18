@@ -26,5 +26,6 @@ http://projects.oscelot.org/gf/project/php-basic-lti/frs/
 ## Useful Links
 * http://www.spvsoftwareproducts.com/php/lti_tool_provider/
 * http://projects.oscelot.org/gf/project/php-basic-lti/frs/
+* http://www.edugarage.com/download/attachments/75071496/2010-06-14-blti-php.pdf
 * http://ltiapps.net/workshop/lti-workshop.html
 * http://ltiapps.net/test/tc.php
